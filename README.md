@@ -1,8 +1,9 @@
 <div style="text-align: center">
 <img src="icon_round.png" alt="SleepRecorder Logo" style="width:120px; margin-top:50px;"/>
 
-# SleepRecorder Privacy Policy
 </div>
+
+# SleepRecorder Privacy Policy
 
 SleepRecorder is an Android app developed by the [Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/) at the [MIT Media Lab](https://www.media.mit.edu/). It is a research application designed to gather data from study participants. If you are not a participant in one of our research studies, this app is not intended to be used by you.
 
