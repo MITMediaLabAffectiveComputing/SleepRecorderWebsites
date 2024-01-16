@@ -19,11 +19,11 @@ All data collected by the app is uploaded to our secure [Firebase Firestore](htt
 
 ## Third Party Sharing
 
-We do not share your data with third parties, with the only exception being to publish aggregated and anonymized data in academic articles. After all, publishing papers is the point of the study and the app itself. All data collected is to remain internal and can only be accessed by personnel identified in the IRB study protocol. We reserve the right to publish academic articles on aggregated and anonymized data as pertains to your study agreements, but outside of that we will keep your data safe.
+We do **NOT** share your data with third parties. We only use your data to publish aggregated and anonymized data in academic articles. After all, publishing papers is the point of the study and the app itself. All data collected is to remain internal and can only be accessed by personnel identified in the IRB study protocol. We reserve the right to publish academic articles on aggregated and anonymized data as pertains to your study agreements, but outside of that we will keep your data safe and never share it with anyone.
 
 If you use the app and are somehow not enrolled in one of our studies, we will not share your data with anyone nor will we publish on it.
 
-We will obviously not share your data with any advertising platforms, data brokers, or information resellers. Ever. For any reason.
+We will obviously **NOT** share your data with any advertising platforms, data brokers, or information resellers. Ever. For any reason.
 
 ## Opt Out
 
