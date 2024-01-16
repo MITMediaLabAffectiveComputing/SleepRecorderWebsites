@@ -25,6 +25,10 @@ If you use the app and are somehow not enrolled in one of our studies, we will n
 
 We will obviously **NOT** share your data with any advertising platforms, data brokers, or information resellers. Ever. For any reason.
 
+## Google Health Connect
+
+The use of information received from Health Connect will adhere to the Health Connect Permissions Policy, including the [Limited Use requirements](https://support.google.com/googleplay/android-developer/answer/9888170?sjid=4796657304539305178-NA#ahp).
+
 ## Opt Out
 
 Since this app is designed to be used only by our study participants, there is no data opt out, though the data gathering service can be disabled from within the app. If you wish to uninstall or stop using the app’s data gathering service, please contact your study coordinator first.
