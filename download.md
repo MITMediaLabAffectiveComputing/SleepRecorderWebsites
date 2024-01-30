@@ -1,6 +1,8 @@
-# SleepRecorder Download Instructions
+<h1 align="center">SleepRecorder Download Instructions</h1>
 
-## Quick Installation
+# Quick Installation
+
+---
 
 **1.** Click the following button on your phone to download the SleepRecorder APK.
 
@@ -37,13 +39,16 @@
 
 **7.** *(Optional)* You may wish to reset the security permissions to disallow Chrome to install unknown apps. If so, follow the instructions below, and click the permission off.
 
+
 ## Detailed Instructions
+
+---
 
 If the above process did not work for you, here are more detailed instructions how to enable installing the SleepRecorder APK.
 
-### Android 8 or above
+## Android 8 or above
 
-#### Samsung devices
+### Samsung devices
 
 <details>
   <summary>Expand to read instructions</summary>
@@ -56,7 +61,7 @@ If the above process did not work for you, here are more detailed instructions h
 </ul>
 </details>
 
-#### Non-Samsung devices
+### Non-Samsung devices
 
 <details>
   <summary>Expand to read instructions</summary>
@@ -69,7 +74,7 @@ If the above process did not work for you, here are more detailed instructions h
 </ul>
 </details>
 
-### Android 7 or below
+## Android 7 or below
 
 <details>
   <summary>Expand to read instructions</summary>
@@ -80,7 +85,7 @@ If the above process did not work for you, here are more detailed instructions h
 </ul>
 </details>
 
-###
+<br />
 <p align="center">
 <a href="https://github.com/MITMediaLabAffectiveComputing/SleepRecorderWebsites/releases/download/beta/SleepRecorder-0.1.apk"><img src="diagrams/download_button.png" alt="download" width="350"/></a>
 </p>
