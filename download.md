@@ -4,16 +4,12 @@
 
 ---
 
-**1.** Click the following button on your phone to download the SleepRecorder APK.
+**1.** Download the SleepRecorder APK. You can find the download link below the instructions, but read the instructions first!
+
+**2.** If the following popup appears, just allow Chrome to download the APK file.
 
 <p align="center">
-<a href="https://github.com/MITMediaLabAffectiveComputing/SleepRecorderWebsites/releases/download/0.2/SleepRecorder-0.2.apk"><img src="diagrams/download_button.png" alt="download" width="400"/></a>
-</p>
-
-**2.** Chrome will open a download dialog
-
-<p align="center">
-<img src="diagrams/downloading.png" width="250"/>
+<img src="diagrams/download_safe.png" width="250"/>
 </p>
 
 **3.** When the download is complete, click "Open"
@@ -22,7 +18,7 @@
 <img src="diagrams/download_complete.png" width="250"/>
 </p>
 
-**4.** This will probably open a security dialog. Click "Settings"
+**4.** This will probably open a security dialog saying that Chrome isn't allowed to open APK files. Click "Settings"
 
 <p align="center">
 <img src="diagrams/download-security.png" width="250"/>
@@ -38,6 +34,11 @@
 
 
 **7.** *(Optional)* You may wish to reset the security permissions to disallow Chrome to install unknown apps. If so, follow the instructions below, and click the permission off.
+
+<br>
+<p align="center">
+<a href="https://github.com/MITMediaLabAffectiveComputing/SleepRecorderWebsites/releases/download/0.2/SleepRecorder-0.2.apk"><img src="diagrams/download_button.png" alt="download" width="350"/></a>
+</p>
 
 
 ## Detailed Instructions
@@ -85,7 +86,3 @@ If the above process did not work for you, here are more detailed instructions h
 </ul>
 </details>
 
-<br />
-<p align="center">
-<a href="https://github.com/MITMediaLabAffectiveComputing/SleepRecorderWebsites/releases/download/beta/SleepRecorder-0.2.apk"><img src="diagrams/download_button.png" alt="download" width="350"/></a>
-</p>
