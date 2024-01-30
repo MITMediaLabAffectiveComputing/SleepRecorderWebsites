@@ -5,31 +5,31 @@
 **1.** Click the following button on your phone to download the SleepRecorder APK.
 
 <p align="center">
-<a href="https://github.com/MITMediaLabAffectiveComputing/SleepRecorderWebsites/releases/download/beta/SleepRecorder-0.1.apk"><img src="diagrams/download_button.png" alt="download" width="300"/></a>
+<a href="https://github.com/MITMediaLabAffectiveComputing/SleepRecorderWebsites/releases/download/beta/SleepRecorder-0.1.apk"><img src="diagrams/download_button.png" alt="download" width="400"/></a>
 </p>
 
 **2.** Chrome will open a download dialog
 
 <p align="center">
-<img src="diagrams/downloading.png" width="300"/>
+<img src="diagrams/downloading.png" width="250"/>
 </p>
 
 **3.** When the download is complete, click "Open"
 
 <p align="center">
-<img src="diagrams/download_complete.png" width="300"/>
+<img src="diagrams/download_complete.png" width="250"/>
 </p>
 
 **4.** This will probably open a security dialog. Click "Settings"
 
 <p align="center">
-<img src="diagrams/download-security.png" width="300"/>
+<img src="diagrams/download-security.png" width="250"/>
 </p>
 
 **5.** You will be brought to the Settings screen to allow Chrome to install unknown apps. This setting allows Chrome to our app installer (APK file). Click the toggle to allow installation of the SleepRecorder APK.
 
 <p align="center">
-<img src="diagrams/install_unknown.png" width="300"/>
+<img src="diagrams/install_unknown.png" width="200"/>
 </p>
 
 **6.** SleepRecorder should automatically be installed, and ready for you to use! 🎉
@@ -82,5 +82,5 @@ If the above process did not work for you, here are more detailed instructions h
 
 ###
 <p align="center">
-<a href="https://github.com/MITMediaLabAffectiveComputing/SleepRecorderWebsites/releases/download/beta/SleepRecorder-0.1.apk"><img src="diagrams/download_button.png" alt="download" width="300"/></a>
+<a href="https://github.com/MITMediaLabAffectiveComputing/SleepRecorderWebsites/releases/download/beta/SleepRecorder-0.1.apk"><img src="diagrams/download_button.png" alt="download" width="350"/></a>
 </p>
