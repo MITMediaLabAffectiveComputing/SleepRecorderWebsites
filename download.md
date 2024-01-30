@@ -7,7 +7,7 @@
 **1.** Click the following button on your phone to download the SleepRecorder APK.
 
 <p align="center">
-<a href="https://github.com/MITMediaLabAffectiveComputing/SleepRecorderWebsites/releases/download/beta/SleepRecorder-0.1.apk"><img src="diagrams/download_button.png" alt="download" width="400"/></a>
+<a href="https://github.com/MITMediaLabAffectiveComputing/SleepRecorderWebsites/releases/download/0.2/SleepRecorder-0.2.apk"><img src="diagrams/download_button.png" alt="download" width="400"/></a>
 </p>
 
 **2.** Chrome will open a download dialog
@@ -87,5 +87,5 @@ If the above process did not work for you, here are more detailed instructions h
 
 <br />
 <p align="center">
-<a href="https://github.com/MITMediaLabAffectiveComputing/SleepRecorderWebsites/releases/download/beta/SleepRecorder-0.1.apk"><img src="diagrams/download_button.png" alt="download" width="350"/></a>
+<a href="https://github.com/MITMediaLabAffectiveComputing/SleepRecorderWebsites/releases/download/beta/SleepRecorder-0.2.apk"><img src="diagrams/download_button.png" alt="download" width="350"/></a>
 </p>
